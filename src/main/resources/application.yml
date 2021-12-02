@@ -20,8 +20,8 @@
   mail:
     host: smtp.gmail.com
     port: 587
-    username: newsinstantly7@gmail.com
-    password: equipo7egg
+    username: newsinstantly7@gmail.com #Email se encuentra en notificationService
+    password: #Contraseña del email
     protocol: smtp
     tls: true
     properties.mail.smtp:
